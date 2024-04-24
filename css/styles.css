@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+}
+body{   
+    background-color:
+    black;
+}
+.caja1{
+    background-color:
+     rebeccapurple;
+     height: 50px;
+}
+.caja2{
+     background-color:
+     aqua;
+     height: 50px;
+}
+.caja3{
+    background-color:
+     antiquewhite;
+     height: 50px;
+}
+.caja4{
+    background-color: 
+    cadetblue;
+    height: 50px;
+}
+.caja5{
+    background-color:
+    burlywood;
+    height: 400px;
+}
+.caja6{
+    background-color:
+     wheat;
+     height: 250px;
+}
+.caja7{
+    background-color:
+    rgb(160, 173, 110);
+    height: 250px;
+}
+.caja8{
+    background-color:
+     antiquewhite;
+     height: 250px;
+}
+.caja9{
+    background-color:
+    violet;
+    height: 250px;
+}
+.caja10{
+    background-color:
+     blueviolet;
+     height: 250px;
+}
+.caja11{
+    background-color:
+     royalblue;
+     height: 250px;
+}
+.caja12{
+    background-color:
+     rosybrown;
+     height: 250px;
+}
+.caja13{
+    background-color:
+    palegoldenrod;
+     height: 250px;
+}
+.caja14{
+    background-color:
+     rgb(113, 77, 146);
+     height: 250px;
+}
+.caja15{
+    background-color: 
+    aqua;
+    height: 200px;  
+}
+.caja16{
+    background-color:
+    azure;
+    height: 200px;
+}
+.caja17{
+    background-color:
+     antiquewhite;
+     height: 200px;
+}
+.caja18{
+    background-color:
+    teal;
+    height: 200px;
+}
+.caja19{
+    background-color:
+     royalblue;
+     height: 200px;
+}
+.caja20{
+    background-color:
+    rgb(160, 173, 110);
+    height: 200px;
+}
+.caja21{
+    background-color:
+     rgb(25, 6, 43);
+     height: 200px;
+}
+.caja22{
+    background-color:
+     aqua;
+     height: 200px;
+}
